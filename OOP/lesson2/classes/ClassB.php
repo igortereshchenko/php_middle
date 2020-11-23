@@ -2,4 +2,5 @@
 
 class ClassB{
 
+    public $b = "b";
 }

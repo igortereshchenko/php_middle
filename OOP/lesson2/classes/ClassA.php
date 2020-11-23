@@ -3,5 +3,5 @@
 
 class ClassA
 {
-
+    public $a = "a";
 }
